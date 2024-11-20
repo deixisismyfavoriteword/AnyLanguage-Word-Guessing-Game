@@ -8,7 +8,7 @@ export const VALIDGUESSES = [
   "Yih6",
   "Ngh4",
   "hai2",
-  "sai1"
+  "sai1",
 ]
 
 if (CONFIG.normalization) {
