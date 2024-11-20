@@ -9,7 +9,6 @@ export const WORDS = [
   "Ngh4",
   "hai2",
   "sai1",
-  ""
 ]
 
 if (CONFIG.normalization) {
