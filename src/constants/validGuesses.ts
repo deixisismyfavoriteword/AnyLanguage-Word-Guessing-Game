@@ -1,12 +1,12 @@
 import { CONFIG } from './config'
 
 export const VALIDGUESSES = [
-   "Diu2",
-  "Siu1",
-  "San1",
-  "Yat1",
-  "Yih6",
-  "Ngh4",
+   "diu2",
+  "siu1",
+  "san1",
+  "yat1",
+  "yih6",
+  "ngh4",
   "hai2",
   "sai1",
 ]
